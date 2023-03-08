@@ -1,2 +1,2 @@
 # GitHub-pages
-Repo showing example of producing GitHub Pages.
+Repo showing example of using GitHub Pages to host a static website
